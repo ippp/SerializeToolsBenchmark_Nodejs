@@ -1,0 +1,30 @@
+{
+  "name": "SerializeToolsBenchmark",
+  "version": "0.0.1",
+  "description": "Compare several serialize tools under nodejs",
+  "main": "user_json.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/ippp/SerializeToolsBenchmark_Nodejs.git"
+  },
+  "keywords": [
+    "node.js",
+    "node",
+    "serialize",
+    "benchmark"
+  ],
+  "dependencies": {
+    "protobuf": "latest",
+    "msgpack": "latest"
+  },
+  "author": "ippp",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ippp/SerializeToolsBenchmark_Nodejs/issues"
+  }
+}
